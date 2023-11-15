@@ -5,7 +5,6 @@ socket.addEventListener('open', function (event) {
   socket.send('Ola!');
 });
 
-// variáveis de controle
 var sensor1;
 var sensor2;
 
